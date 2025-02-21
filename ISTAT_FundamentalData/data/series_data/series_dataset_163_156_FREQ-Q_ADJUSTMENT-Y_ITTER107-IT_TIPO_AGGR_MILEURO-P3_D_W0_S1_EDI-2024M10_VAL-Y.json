@@ -1,0 +1,499 @@
+{
+  "dataset_info": {
+    "id": "163_156",
+    "names": {
+      "it": "Conto economico delle risorse e degli impieghi  e contributi alla crescita del Pil",
+      "en": "Gross domestic product, expenditure components and contribution to GDP growth"
+    },
+    "structure_reference": {
+      "agency_id": "IT1",
+      "id": "DCCN_SQCQ",
+      "version": "1.3"
+    },
+    "generated_at": "2025-02-17T14:27:33.007574"
+  },
+  "metadata": {
+    "FREQ": {
+      "code": "Q",
+      "description": "quarterly"
+    },
+    "ADJUSTMENT": {
+      "code": "Y",
+      "description": "seasonally adjusted data"
+    },
+    "ITTER107": {
+      "code": "IT",
+      "description": "Italy"
+    },
+    "TIPO_AGGR_MILEURO": {
+      "code": "P3_D_W0_S1",
+      "description": "national final consumption expenditure"
+    },
+    "EDI": {
+      "code": "2024M10",
+      "description": "2024M10"
+    },
+    "VAL": {
+      "code": "Y",
+      "description": "in previous year prices"
+    }
+  },
+  "observations": [
+    {
+      "time_period": "1996-Q1",
+      "value": 190003.1
+    },
+    {
+      "time_period": "1996-Q2",
+      "value": 189212.0
+    },
+    {
+      "time_period": "1996-Q3",
+      "value": 189270.8
+    },
+    {
+      "time_period": "1996-Q4",
+      "value": 190110.6
+    },
+    {
+      "time_period": "1997-Q1",
+      "value": 199084.2
+    },
+    {
+      "time_period": "1997-Q2",
+      "value": 203448.7
+    },
+    {
+      "time_period": "1997-Q3",
+      "value": 205606.7
+    },
+    {
+      "time_period": "1997-Q4",
+      "value": 206507.5
+    },
+    {
+      "time_period": "1998-Q1",
+      "value": 212479.4
+    },
+    {
+      "time_period": "1998-Q2",
+      "value": 214811.8
+    },
+    {
+      "time_period": "1998-Q3",
+      "value": 216576.2
+    },
+    {
+      "time_period": "1998-Q4",
+      "value": 217551.6
+    },
+    {
+      "time_period": "1999-Q1",
+      "value": 222422.5
+    },
+    {
+      "time_period": "1999-Q2",
+      "value": 223261.5
+    },
+    {
+      "time_period": "1999-Q3",
+      "value": 225053.5
+    },
+    {
+      "time_period": "1999-Q4",
+      "value": 226673.8
+    },
+    {
+      "time_period": "2000-Q1",
+      "value": 232401.7
+    },
+    {
+      "time_period": "2000-Q2",
+      "value": 234121.4
+    },
+    {
+      "time_period": "2000-Q3",
+      "value": 236013.0
+    },
+    {
+      "time_period": "2000-Q4",
+      "value": 236574.6
+    },
+    {
+      "time_period": "2001-Q1",
+      "value": 247033.1
+    },
+    {
+      "time_period": "2001-Q2",
+      "value": 246253.1
+    },
+    {
+      "time_period": "2001-Q3",
+      "value": 245768.6
+    },
+    {
+      "time_period": "2001-Q4",
+      "value": 247084.5
+    },
+    {
+      "time_period": "2002-Q1",
+      "value": 253467.2
+    },
+    {
+      "time_period": "2002-Q2",
+      "value": 253785.8
+    },
+    {
+      "time_period": "2002-Q3",
+      "value": 254483.8
+    },
+    {
+      "time_period": "2002-Q4",
+      "value": 254885.4
+    },
+    {
+      "time_period": "2003-Q1",
+      "value": 262725.0
+    },
+    {
+      "time_period": "2003-Q2",
+      "value": 263198.1
+    },
+    {
+      "time_period": "2003-Q3",
+      "value": 264679.5
+    },
+    {
+      "time_period": "2003-Q4",
+      "value": 264751.7
+    },
+    {
+      "time_period": "2004-Q1",
+      "value": 274207.4
+    },
+    {
+      "time_period": "2004-Q2",
+      "value": 274583.1
+    },
+    {
+      "time_period": "2004-Q3",
+      "value": 275650.3
+    },
+    {
+      "time_period": "2004-Q4",
+      "value": 276833.9
+    },
+    {
+      "time_period": "2005-Q1",
+      "value": 285329.0
+    },
+    {
+      "time_period": "2005-Q2",
+      "value": 285906.7
+    },
+    {
+      "time_period": "2005-Q3",
+      "value": 287497.5
+    },
+    {
+      "time_period": "2005-Q4",
+      "value": 287234.4
+    },
+    {
+      "time_period": "2006-Q1",
+      "value": 296195.2
+    },
+    {
+      "time_period": "2006-Q2",
+      "value": 296198.7
+    },
+    {
+      "time_period": "2006-Q3",
+      "value": 296302.0
+    },
+    {
+      "time_period": "2006-Q4",
+      "value": 298750.6
+    },
+    {
+      "time_period": "2007-Q1",
+      "value": 308199.8
+    },
+    {
+      "time_period": "2007-Q2",
+      "value": 309523.8
+    },
+    {
+      "time_period": "2007-Q3",
+      "value": 308686.6
+    },
+    {
+      "time_period": "2007-Q4",
+      "value": 308943.1
+    },
+    {
+      "time_period": "2008-Q1",
+      "value": 315499.8
+    },
+    {
+      "time_period": "2008-Q2",
+      "value": 315513.5
+    },
+    {
+      "time_period": "2008-Q3",
+      "value": 312420.7
+    },
+    {
+      "time_period": "2008-Q4",
+      "value": 311115.2
+    },
+    {
+      "time_period": "2009-Q1",
+      "value": 319524.0
+    },
+    {
+      "time_period": "2009-Q2",
+      "value": 319121.8
+    },
+    {
+      "time_period": "2009-Q3",
+      "value": 321235.5
+    },
+    {
+      "time_period": "2009-Q4",
+      "value": 320496.8
+    },
+    {
+      "time_period": "2010-Q1",
+      "value": 321874.4
+    },
+    {
+      "time_period": "2010-Q2",
+      "value": 321737.0
+    },
+    {
+      "time_period": "2010-Q3",
+      "value": 323408.8
+    },
+    {
+      "time_period": "2010-Q4",
+      "value": 322720.3
+    },
+    {
+      "time_period": "2011-Q1",
+      "value": 328196.0
+    },
+    {
+      "time_period": "2011-Q2",
+      "value": 327558.9
+    },
+    {
+      "time_period": "2011-Q3",
+      "value": 325807.8
+    },
+    {
+      "time_period": "2011-Q4",
+      "value": 323732.2
+    },
+    {
+      "time_period": "2012-Q1",
+      "value": 326781.7
+    },
+    {
+      "time_period": "2012-Q2",
+      "value": 323673.5
+    },
+    {
+      "time_period": "2012-Q3",
+      "value": 322358.1
+    },
+    {
+      "time_period": "2012-Q4",
+      "value": 319944.3
+    },
+    {
+      "time_period": "2013-Q1",
+      "value": 323881.7
+    },
+    {
+      "time_period": "2013-Q2",
+      "value": 323946.9
+    },
+    {
+      "time_period": "2013-Q3",
+      "value": 323597.1
+    },
+    {
+      "time_period": "2013-Q4",
+      "value": 324291.7
+    },
+    {
+      "time_period": "2014-Q1",
+      "value": 326151.9
+    },
+    {
+      "time_period": "2014-Q2",
+      "value": 326023.9
+    },
+    {
+      "time_period": "2014-Q3",
+      "value": 327737.3
+    },
+    {
+      "time_period": "2014-Q4",
+      "value": 328773.4
+    },
+    {
+      "time_period": "2015-Q1",
+      "value": 330494.9
+    },
+    {
+      "time_period": "2015-Q2",
+      "value": 332656.2
+    },
+    {
+      "time_period": "2015-Q3",
+      "value": 332507.1
+    },
+    {
+      "time_period": "2015-Q4",
+      "value": 333227.0
+    },
+    {
+      "time_period": "2016-Q1",
+      "value": 334139.4
+    },
+    {
+      "time_period": "2016-Q2",
+      "value": 334342.9
+    },
+    {
+      "time_period": "2016-Q3",
+      "value": 335164.8
+    },
+    {
+      "time_period": "2016-Q4",
+      "value": 336571.8
+    },
+    {
+      "time_period": "2017-Q1",
+      "value": 339835.0
+    },
+    {
+      "time_period": "2017-Q2",
+      "value": 340361.3
+    },
+    {
+      "time_period": "2017-Q3",
+      "value": 340476.1
+    },
+    {
+      "time_period": "2017-Q4",
+      "value": 341414.4
+    },
+    {
+      "time_period": "2018-Q1",
+      "value": 346326.5
+    },
+    {
+      "time_period": "2018-Q2",
+      "value": 346569.9
+    },
+    {
+      "time_period": "2018-Q3",
+      "value": 346363.7
+    },
+    {
+      "time_period": "2018-Q4",
+      "value": 346572.9
+    },
+    {
+      "time_period": "2019-Q1",
+      "value": 351150.3
+    },
+    {
+      "time_period": "2019-Q2",
+      "value": 351670.2
+    },
+    {
+      "time_period": "2019-Q3",
+      "value": 350612.7
+    },
+    {
+      "time_period": "2019-Q4",
+      "value": 349209.2
+    },
+    {
+      "time_period": "2020-Q1",
+      "value": 333564.6
+    },
+    {
+      "time_period": "2020-Q2",
+      "value": 304771.8
+    },
+    {
+      "time_period": "2020-Q3",
+      "value": 337029.9
+    },
+    {
+      "time_period": "2020-Q4",
+      "value": 326604.9
+    },
+    {
+      "time_period": "2021-Q1",
+      "value": 326721.7
+    },
+    {
+      "time_period": "2021-Q2",
+      "value": 343383.1
+    },
+    {
+      "time_period": "2021-Q3",
+      "value": 354677.5
+    },
+    {
+      "time_period": "2021-Q4",
+      "value": 351901.8
+    },
+    {
+      "time_period": "2022-Q1",
+      "value": 356519.0
+    },
+    {
+      "time_period": "2022-Q2",
+      "value": 364155.3
+    },
+    {
+      "time_period": "2022-Q3",
+      "value": 369228.8
+    },
+    {
+      "time_period": "2022-Q4",
+      "value": 363578.0
+    },
+    {
+      "time_period": "2023-Q1",
+      "value": 386712.1
+    },
+    {
+      "time_period": "2023-Q2",
+      "value": 389985.4
+    },
+    {
+      "time_period": "2023-Q3",
+      "value": 393024.1
+    },
+    {
+      "time_period": "2023-Q4",
+      "value": 388121.8
+    },
+    {
+      "time_period": "2024-Q1",
+      "value": 402759.1
+    },
+    {
+      "time_period": "2024-Q2",
+      "value": 404698.5
+    }
+  ]
+}

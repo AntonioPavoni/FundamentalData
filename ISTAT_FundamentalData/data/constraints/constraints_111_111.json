@@ -1,0 +1,120 @@
+{
+  "dataset_info": {
+    "id": "111_111",
+    "names": {
+      "it": "Indicatori  permessi di costruire",
+      "en": "Building permits  indicators"
+    },
+    "structure_reference": {
+      "agency_id": "IT1",
+      "id": "DCSC_PERM_RAP1",
+      "version": "1.1"
+    }
+  },
+  "generated_at": "2025-02-17T14:47:36.763367",
+  "dimensions": {
+    "FREQ": {
+      "id": "FREQ",
+      "values": {
+        "A": {
+          "name": {
+            "it": "annuale",
+            "en": "annual"
+          }
+        },
+        "Q": {
+          "name": {
+            "it": "trimestrale",
+            "en": "quarterly"
+          }
+        }
+      }
+    },
+    "ADJUSTMENT": {
+      "id": "ADJUSTMENT",
+      "values": {
+        "N": {
+          "name": {
+            "en": "raw data",
+            "it": "dati grezzi"
+          }
+        },
+        "Y": {
+          "name": {
+            "en": "seasonally adjusted data",
+            "it": "dati destagionalizzati"
+          }
+        }
+      }
+    },
+    "TIP_EDIL": {
+      "id": "TIP_EDIL",
+      "values": {
+        "NEW_NRS_CONS": {
+          "name": {
+            "it": "nuova edilizia non residenziale",
+            "en": "new non-residential construction"
+          }
+        },
+        "NEW_RS_BUIL": {
+          "name": {
+            "it": "fabbricati residenziali nuovi",
+            "en": "new residential buildings"
+          }
+        }
+      }
+    },
+    "ITTER107": {
+      "id": "ITTER107",
+      "values": {
+        "IT": {
+          "name": {
+            "it": "Italia",
+            "en": "Italy"
+          }
+        }
+      }
+    },
+    "TIPO_DATO": {
+      "id": "TIPO_DATO",
+      "values": {
+        "NUMDW": {
+          "name": {
+            "it": "abitazioni",
+            "en": "dwellings"
+          }
+        },
+        "NUMDW_VT": {
+          "name": {
+            "it": "abitazioni in fabbricati residenziali nuovi (variazioni percentuali tendenziali)",
+            "en": "dwellings in new residential buildings (percentage change on the same period of the previous year)"
+          }
+        },
+        "SRF_IND": {
+          "name": {
+            "it": "superficie della nuova edilizia non residenziale (metri quadri)",
+            "en": "new non-residential construction surface (square metres)"
+          }
+        },
+        "SRF_IND_VT": {
+          "name": {
+            "it": "superficie della nuova edilizia non residenziale (variazioni percentuali tendenziali)",
+            "en": "new non-residential construction surface (percentage change on the same period of the previous year)"
+          }
+        },
+        "USFLAR": {
+          "name": {
+            "it": "superficie utile abitabile (metri quadri)",
+            "en": "useful floor area (square metres)"
+          }
+        },
+        "USFLAR_VT": {
+          "name": {
+            "it": "superficie utile abitabile in fabbricati residenziali nuovi (variazioni percentuali tendenziali)",
+            "en": "useful floor area in new residential buildings (percentage change on the same period of the previous year)"
+          }
+        }
+      }
+    }
+  }
+}

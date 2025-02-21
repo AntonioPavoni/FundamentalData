@@ -1,0 +1,123 @@
+{
+  "dataset_info": {
+    "id": "111_111",
+    "names": {
+      "it": "Indicatori  permessi di costruire",
+      "en": "Building permits  indicators"
+    },
+    "structure_reference": {
+      "agency_id": "IT1",
+      "id": "DCSC_PERM_RAP1",
+      "version": "1.1"
+    },
+    "generated_at": "2025-02-17T15:01:59.760682"
+  },
+  "metadata": {
+    "FREQ": {
+      "code": "A",
+      "description": "annual"
+    },
+    "ADJUSTMENT": {
+      "code": "N",
+      "description": "raw data"
+    },
+    "TIP_EDIL": {
+      "code": "NEW_RS_BUIL",
+      "description": "new residential buildings"
+    },
+    "ITTER107": {
+      "code": "IT",
+      "description": "Italy"
+    },
+    "TIPO_DATO": {
+      "code": "NUMDW",
+      "description": "dwellings"
+    }
+  },
+  "observations": [
+    {
+      "time_period": "2000",
+      "value": 184424.0
+    },
+    {
+      "time_period": "2001",
+      "value": 189025.0
+    },
+    {
+      "time_period": "2002",
+      "value": 209228.0
+    },
+    {
+      "time_period": "2003",
+      "value": 229526.0
+    },
+    {
+      "time_period": "2004",
+      "value": 268385.0
+    },
+    {
+      "time_period": "2005",
+      "value": 278602.0
+    },
+    {
+      "time_period": "2006",
+      "value": 261455.0
+    },
+    {
+      "time_period": "2007",
+      "value": 250271.0
+    },
+    {
+      "time_period": "2008",
+      "value": 191783.0
+    },
+    {
+      "time_period": "2009",
+      "value": 141587.0
+    },
+    {
+      "time_period": "2010",
+      "value": 110386.0
+    },
+    {
+      "time_period": "2011",
+      "value": 104225.0
+    },
+    {
+      "time_period": "2012",
+      "value": 77337.0
+    },
+    {
+      "time_period": "2013",
+      "value": 51777.0
+    },
+    {
+      "time_period": "2014",
+      "value": 44971.0
+    },
+    {
+      "time_period": "2015",
+      "value": 42879.0
+    },
+    {
+      "time_period": "2016",
+      "value": 44231.0
+    },
+    {
+      "time_period": "2017",
+      "value": 52027.0
+    },
+    {
+      "time_period": "2018",
+      "value": 55596.0
+    },
+    {
+      "time_period": "2019",
+      "value": 55262.0
+    },
+    {
+      "time_period": "2020",
+      "value": 49100.0
+    }
+  ]
+}

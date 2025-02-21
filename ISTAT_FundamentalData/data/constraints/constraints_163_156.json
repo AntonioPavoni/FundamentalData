@@ -1,0 +1,245 @@
+{
+  "dataset_info": {
+    "id": "163_156",
+    "names": {
+      "it": "Conto economico delle risorse e degli impieghi  e contributi alla crescita del Pil",
+      "en": "Gross domestic product, expenditure components and contribution to GDP growth"
+    },
+    "structure_reference": {
+      "agency_id": "IT1",
+      "id": "DCCN_SQCQ",
+      "version": "1.3"
+    }
+  },
+  "generated_at": "2025-02-14T16:32:06.178479",
+  "dimensions": {
+    "FREQ": {
+      "id": "FREQ",
+      "values": {
+        "Q": {
+          "name": {
+            "it": "trimestrale",
+            "en": "quarterly"
+          }
+        }
+      }
+    },
+    "ADJUSTMENT": {
+      "id": "ADJUSTMENT",
+      "values": {
+        "N": {
+          "name": {
+            "en": "raw data",
+            "it": "dati grezzi"
+          }
+        },
+        "W": {
+          "name": {
+            "en": "calendar adjusted data",
+            "it": "dati corretti per gli effetti di calendario"
+          }
+        },
+        "Y": {
+          "name": {
+            "en": "seasonally adjusted data",
+            "it": "dati destagionalizzati"
+          }
+        }
+      }
+    },
+    "ITTER107": {
+      "id": "ITTER107",
+      "values": {
+        "IT": {
+          "name": {
+            "it": "Italia",
+            "en": "Italy"
+          }
+        }
+      }
+    },
+    "TIPO_AGGR_MILEURO": {
+      "id": "TIPO_AGGR_MILEURO",
+      "values": {
+        "B11_B_W1_S1_X1": {
+          "name": {
+            "it": "domanda estera netta",
+            "en": "external balance of goods and services"
+          }
+        },
+        "B1GQ_B_W2_S1": {
+          "name": {
+            "it": "prodotto interno lordo ai prezzi di mercato",
+            "en": "gross domestic product at market prices"
+          }
+        },
+        "GSA_Z_Z_Z": {
+          "name": {
+            "it": "conto economico delle risorse e degli impieghi",
+            "en": "goods and services account"
+          }
+        },
+        "P3_D_W0_S1": {
+          "name": {
+            "it": "spesa per consumi finali nazionali",
+            "en": "national final consumption expenditure"
+          }
+        },
+        "P3_D_W0_S13": {
+          "name": {
+            "it": "spesa per consumi finali delle amministrazioni pubbliche",
+            "en": "consumption of general government"
+          }
+        },
+        "P3_D_W0_S1M": {
+          "name": {
+            "it": "spesa per consumi finali delle famiglie e delle istituzioni sociali private senza scopo di lucro al servizio delle famiglie (isp) concetto nazionale",
+            "en": "final consumption expenditure of households and non-profit institutions serving households (npish)"
+          }
+        },
+        "P3AP51G_D_W0_S1": {
+          "name": {
+            "it": "domanda nazionale al netto della variazione delle scorte e oggetti di valore",
+            "en": "national demand (excluding changes in inventories and acquisitions less disposals of valuables)"
+          }
+        },
+        "P51G_D_W0_S1": {
+          "name": {
+            "it": "investimenti fissi lordi",
+            "en": "gross fixed capital formation"
+          }
+        },
+        "P5M_D_W0_S1": {
+          "name": {
+            "it": "variazione delle scorte e acquisizioni meno cessioni di oggetti di valore",
+            "en": "changes in inventories, acquisitions less disposals of valuables"
+          }
+        },
+        "P6_D_W1_S1": {
+          "name": {
+            "it": "esportazioni di beni (fob) e servizi",
+            "en": "exports of goods (fob) and services"
+          }
+        },
+        "P61_D_W1_S1": {
+          "name": {
+            "it": "esportazioni di beni (fob)",
+            "en": "exports of goods (fob)"
+          }
+        },
+        "P62_D_W1_S1": {
+          "name": {
+            "it": "esportazioni di servizi",
+            "en": "exports of services"
+          }
+        },
+        "P7_C_W1_S1": {
+          "name": {
+            "it": "importazioni di beni (fob) e servizi",
+            "en": "imports of goods (fob) and services"
+          }
+        },
+        "P71_C_W1_S1": {
+          "name": {
+            "it": "importazioni di beni  (fob)",
+            "en": "imports of goods (fob)"
+          }
+        },
+        "P72_C_W1_S1": {
+          "name": {
+            "it": "importazioni di servizi",
+            "en": "imports of services"
+          }
+        },
+        "TR_C_Z_S1": {
+          "name": {
+            "it": "risorse",
+            "en": "resources"
+          }
+        },
+        "TU_D_Z_S1": {
+          "name": {
+            "it": "impieghi",
+            "en": "uses"
+          }
+        }
+      }
+    },
+    "EDI": {
+      "id": "EDI",
+      "values": {
+        "2014M10": {
+          "name": {
+            "it": "Ott-2014",
+            "en": "Oct-2014"
+          }
+        },
+        "2014M12": {
+          "name": {
+            "it": "Dic-2014",
+            "en": "Dec-2014"
+          }
+        },
+        "2015M3": {
+          "name": {
+            "it": "Mar-2015",
+            "en": "Mar-2015"
+          }
+        },
+        "2015M5": {
+          "name": {
+            "it": "Mag-2015",
+            "en": "May-2015"
+          }
+        }
+      }
+    },
+    "VAL": {
+      "id": "VAL",
+      "values": {
+        "Y": {
+          "name": {
+            "it": "prezzi dell'anno precedente",
+            "en": "in previous year prices"
+          }
+        },
+        "GO4": {
+          "name": {
+            "it": "contributi alla crescita tendenziale del PIL",
+            "en": "contribution to GDP growth with respect to the same period of the previous year"
+          }
+        },
+        "GO1": {
+          "name": {
+            "it": "contributi alla crescita congiunturale del PIL",
+            "en": "contribution to GDP growth with respect to the previous period"
+          }
+        },
+        "V": {
+          "name": {
+            "it": "prezzi correnti",
+            "en": "current prices"
+          }
+        },
+        "G4": {
+          "name": {
+            "it": "variazione tendenziale",
+            "en": "growth rate over 4 periods"
+          }
+        },
+        "L_2015": {
+          "name": {
+            "it": "valori concatenati con anno di riferimento 2015",
+            "en": "chain linked - reference year 2015"
+          }
+        },
+        "G1": {
+          "name": {
+            "it": "variazione congiunturale",
+            "en": "growth rate, period on period"
+          }
+        }
+      }
+    }
+  }
+}
